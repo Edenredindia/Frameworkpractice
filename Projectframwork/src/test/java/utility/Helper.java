@@ -15,7 +15,7 @@ import org.openqa.selenium.io.FileHandler;
 import com.aventstack.extentreports.utils.FileUtil;
 
 public class Helper {
-	
+	//
 	
 	public static String capturescreenshot(WebDriver driver)
 	{

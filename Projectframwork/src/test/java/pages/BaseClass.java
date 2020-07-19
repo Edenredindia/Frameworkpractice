@@ -32,7 +32,7 @@ public class BaseClass {
 	@BeforeSuite
 	public void setupsuite()
 	{
-		
+		//
 		Reporter.log("Setting up reports & test started", true);
 		 excel = new ExcelDataProvider();
 		 config= new ConfigDataProvider();
