@@ -8,6 +8,7 @@ public class Loginpage {
 	
 	WebDriver driver;
 	//this is new comment dsd   
+	//comment added from git
 	public Loginpage(WebDriver ldriver)
 	{
 		this.driver= ldriver;
